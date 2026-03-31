@@ -16,5 +16,6 @@
 * **☁️ Cloud & Infrastructure:** AWS (Lambda, Step Functions, AppSync, DynamoDB, ECS, ECR, CloudWatch, Cognito, IAM, Secret Manager), AWS CDK
 * **🏗️ Frameworks:** Spring Boot, React JS, .NET Core, Node.js, Hexagonal Architecture
 * **🗄️ Databases:** PostgreSQL, MySQL, DynamoDB (NoSQL), JPA/Hibernate
+* **🚀 APIs:** REST, GraphQL
 * **🛠️ DevOps & Tools:** CI/CD Pipelines (Github Action, Jenkins), Docker/Containerization, Gradle, Postman, Git, Playwright
 * **🧠 Core Competencies:** Object-Oriented Programming (OOP), Parallel & Concurrent Programming
