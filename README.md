@@ -5,6 +5,7 @@
 * **📚 Currently Reading:**
     * [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
     * [Modern Concurrency in Java](https://www.oreilly.com/library/view/modern-concurrency-in/9781098165406/)
+    * [Cloud Native In Action](https://www.oreilly.com/library/view/cloud-native-spring/9781617298424/)
 * **📫 Reach Me:** [meding97@gmail.com](mailto:meding97@gmail.com)
 
 ---
